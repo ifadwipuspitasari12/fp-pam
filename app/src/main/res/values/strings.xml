@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_wisata">Tourism</string>
+    <string name="txt_kesukaan">Favorit</string>
+    <string name="language">Language</string>
+    <string name="home">Home</string>
+</resources>

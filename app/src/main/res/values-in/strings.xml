@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_wisata">Wisata</string>
+    <string name="txt_kesukaan">Kesukaan</string>
+    <string name="language">Bahasa</string>
+    <string name="home">Beranda</string>
+</resources>
